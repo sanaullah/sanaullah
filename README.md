@@ -29,12 +29,12 @@ I bridge the gap between **deep database internals** and **modern application ar
 #### 💻 Backend & Application Engineering
 
 * Advanced T-SQL (CTEs, EXISTS, OPENJSON, set-based logic)
-* RESTful API design (replacing linked servers)
+* SQL-driven automation & ETL-style workflows
+* RESTful API design
 * Microservices & distributed systems
 * Java
 * ColdFusion (ColdBox HMVC)
 * Python
-* SQL-driven automation & ETL-style workflows
 
 #### ⚙️ Tooling & Operations
 
@@ -57,8 +57,6 @@ I bridge the gap between **deep database internals** and **modern application ar
 ---
 
 ### 📈 GitHub Overview
-<img src="https://github-readme-stats.vercel.app/api?username=sanaullah&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanaullah&theme=default&hide_border=true" alt="GitHub Streak" />
 </p>
