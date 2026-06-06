@@ -2,18 +2,18 @@
 
 ![](https://komarev.com/ghpvc/?username=sanaullah&color=blue)
 
-*Senior Database Administrator • Backend Engineer • Systems Architect*
+*Senior Software Engineer • Database Administrator • Backend Engineer • Systems Architect*
 | 20+ years in Software & Data Engineering
 
 ---
 
 ### About Me
 
-I’m a results-driven Senior Database Administrator with over 8 years of hands-on SQL Server experience and more than 20 years in application, backend, and distributed systems engineering.
+I'm a results-driven Senior Software Engineer with 20 years of experience in application, backend, and distributed systems engineering, plus database administration and performance tuning.
 
-I focus on building and maintaining secure, high-availability, and high-performance data platforms that power mission-critical enterprise systems, especially within financial and ERP-driven environments..
+I specialize in building and maintaining secure, high-availability, high-performance data platforms that power mission-critical enterprise systems, particularly in financial and ERP environments.
 
-With a strong foundation in both database internals and modern application architecture, I enjoy helping teams modernize legacy integrations and evolve them into scalable, service-oriented solutions that are reliable, maintainable, and built for growth.
+Leveraging deep expertise in both database internals and modern application architecture, I help teams modernize legacy integrations into scalable, service-oriented solutions that are reliable, maintainable, and built for growth.
 
 ---
 
@@ -35,9 +35,12 @@ With a strong foundation in both database internals and modern application archi
 * SQL-driven automation & ETL-style workflows
 * RESTful API design
 * Microservices & distributed systems
-* ColdFusion (ColdBox HMVC)
-* Java
+* ColdFusion (Adobe, Lucee, Boxlang)
+* Javascript
 * Python
+* Java
+* ColdBox HMVC, FW/1
+* Soft Skills (Node.js, TypeScript, React)
 
 ---
 #### Tooling & Operations
