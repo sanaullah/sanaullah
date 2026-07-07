@@ -1,65 +1,55 @@
 # 👋 Hi, I'm Sana Ullah
 
-![](https://komarev.com/ghpvc/?username=sanaullah&color=blue)
-
-*Senior Software Engineer • Database Administrator • Backend Engineer • Systems Architect*
-| 20+ years in Software & Data Engineering
+**Senior Engineer · Production AI with Guardrails · Financial & Enterprise Platforms**
 
 ---
 
-### About Me
+### About me
 
-I'm a results-driven Senior Software Engineer with 20 years of experience in application, backend, and distributed systems engineering, plus database administration and performance tuning.
-
-I specialize in building and maintaining secure, high-availability, high-performance data platforms that power mission-critical enterprise systems, particularly in financial and ERP environments.
-
-Leveraging deep expertise in both database internals and modern application architecture, I help teams modernize legacy integrations into scalable, service-oriented solutions that are reliable, maintainable, and built for growth.
+I build production-grade AI in data-rich, compliance-aware environments — RAG pipelines, multi-agent workflows, document-intelligence copilots, and LLMOps with guardrails. With **20+ years** across backend engineering, database platforms, and mission-critical financial systems, I focus on secure, high-availability data platforms and modernizing legacy integrations into reliable, service-oriented architectures.
 
 ---
 
-### 🛠️ Core Expertise
+## What I work on
 
-#### Databases & Data Platforms
+**GenAI / LLM**
 
-* Microsoft SQL Server (2012–2019)
-* High Availability, Backups & Disaster Recovery
-* Performance Tuning & Execution Plan Analysis
-* Index & Cardinality Optimization
-* Blocking & Deadlock Resolution
-* Role-based Security & Least-Privilege Access
+- RAG systems with semantic retrieval, source citations, and low-confidence fallbacks
+- Agentic workflows with LangGraph (validate → analyze → summarize)
+- AWS Bedrock integration with structured JSON guardrails and hallucination reduction
+- LLMOps: CI/CD, evaluation frameworks, observability (Langfuse), and responsible AI practices
 
----
-#### Backend & Application Engineering
+**Platforms & delivery**
 
-* Advanced T-SQL (CTEs, EXISTS, OPENJSON, set-based logic)
-* SQL-driven automation & ETL-style workflows
-* RESTful API design
-* Microservices & distributed systems
-* ColdFusion (Adobe, Lucee, Boxlang)
-* Javascript
-* Python
-* Java
-* ColdBox HMVC, FW/1
-* Soft Skills (Node.js, TypeScript, React)
+- Python production services, REST APIs, and cloud-native microservices on AWS
+- SQL Server / Oracle performance tuning, ETL validation, and incident response
+- Legacy modernization (ColdFusion, Lucee, BoxLang, ColdBox) into scalable service-oriented architectures
 
 ---
-#### Tooling & Operations
 
-* SQL Server Management Studio (SSMS)
-* SQL Agent Jobs & Monitoring
-* Source control & deployment best practices
-* Technical documentation & standards
-* Mentorship & technical leadership
+## Tech stack
 
----
-### 📌 Philosophy
+**AI / ML** · Python · LangChain · LangGraph · LlamaIndex · Hugging Face · RAG · vector stores · AWS Bedrock · pytest
 
-* *Databases are systems, not just storage*
-* Performance is a design decision, not a last-minute fix
-* Security must be built-in, not bolted-on
-* Code should be understandable by the next engineer
-* Reliability > cleverness
+**Cloud & infrastructure** · AWS Lambda · S3 · DynamoDB · API Gateway · Step Functions · Docker
 
-Above all... I value clarity, correctness, and operational safety over shortcuts.
+**Data & backend** · pandas · NumPy · SciPy · SQL Server · Oracle · PostgreSQL · T-SQL · REST · microservices
+
+**Application platforms** · TypeScript · React · Node.js · Java
+
+**Engineering practices** · SSMS · SQL Agent jobs & monitoring · source control & deployment · technical documentation · mentorship & technical leadership
 
 ---
+
+## Philosophy
+
+- **Reliability over cleverness** — especially in regulated systems
+- **Guardrails before demos** — structured outputs, citations, and human review paths
+- **Performance is a design decision**, not a last-minute fix
+- **Code should be understandable** by the next engineer
+
+Above all, I value clarity, correctness, and operational safety over shortcuts.
+
+---
+
+![Profile views](https://komarev.com/ghpvc/?username=sanaullah&color=blue)
