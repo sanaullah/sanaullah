@@ -33,9 +33,9 @@ I build production-grade AI in data-rich, compliance-aware environments — RAG 
 
 **Cloud & infrastructure** · AWS Lambda · S3 · DynamoDB · API Gateway · Step Functions · Docker
 
-**Data & backend** · pandas · NumPy · SciPy · SQL Server · Oracle · PostgreSQL · T-SQL · REST · microservices
+**Data & backend** · pandas · NumPy · SciPy · SQL Server · Oracle · PostgreSQL · REST · microservices
 
-**Application platforms** · TypeScript · React · Node.js · Java
+**Application platforms** · TypeScript · React · Node.js · Java · Spring Boot
 
 **Engineering practices** · SSMS · SQL Agent jobs & monitoring · source control & deployment · technical documentation · mentorship & technical leadership
 
